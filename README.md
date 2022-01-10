@@ -1,6 +1,6 @@
-![spirit bot](https://telegra.ph/file/6df8c54debd7d4ba8c0aa.jpg?size=1500)
+![Ammukutti_2](https://telegra.ph/file/6df8c54debd7d4ba8c0aa.jpg?size=1500)
 
-## [![spirit-bot](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=Welcome+to+spirit+bot+WA+Bot+Repo;Created+by+spirit+ser;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![Ammukutti_2](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=Welcome+to+Ammukutti+bot+WA+Bot+Repo;Created+by+Joshuva+ser;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
 
 ## Setup
